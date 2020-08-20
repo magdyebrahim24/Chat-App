@@ -1,7 +1,7 @@
 # Chat App
 ######  A Simple Chat App made with flutter and firebase .
 
-![Image of chat app](/gif/chat-gif.gif)
+![Image of chat app](/assets/chat-gif.gif)
 
 
 -----------------------------------------------------------------------------
