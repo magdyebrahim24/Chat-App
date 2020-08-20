@@ -1,0 +1,42 @@
+name: chatapp
+description: An Chat App Using FireBase
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.2.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+  cupertino_icons: ^0.1.2
+  font_awesome_flutter: ^8.2.0
+  firebase_core: ^0.4.4+3
+  firebase_auth: ^0.16.0
+  progress_indicators: ^0.1.5
+  cloud_firestore: ^0.13.5
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+
+
+  uses-material-design: true
+
+  assets:
+    - assets/
+
+
+  fonts:
+    - family: LexendDeca
+      fonts:
+        - asset: fonts/LexendDeca-Regular.ttf
+    - family: Comfortaa
+      fonts:
+        - asset: fonts/Comfortaa-Bold.ttf
+    - family: LobsterTwo
+      fonts:
+        - asset: fonts/LobsterTwo-Bold.ttf

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "532260557877",
+    "firebase_url": "https://mega-2f61b.firebaseio.com",
+    "project_id": "mega-2f61b",
+    "storage_bucket": "mega-2f61b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:532260557877:android:1ca9c8d411a08cebce8d7c",
+        "android_client_info": {
+          "package_name": "com.mega.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "532260557877-av7sfsq8117g0ajpog5a0umc9i59hj2d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBR75E5wDfKfscsv2zG6AYzRAdwt_pCPc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "532260557877-av7sfsq8117g0ajpog5a0umc9i59hj2d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
